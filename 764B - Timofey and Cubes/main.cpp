@@ -1,34 +1,34 @@
 #include <iostream>
 #include <vector>
-typedef long long ll;
+typedef long long big;
 using namespace std;
 
 int main() {
-	int n;
-	cin >> n;
-	vector<ll> numbers;
-	for (int i = 0; i < n; ++i) {
-		ll tmp;
-		cin >> tmp;
-		numbers.push_back(tmp);
-	}
+  int n;
+  cin >> n;
+  vector<big> cubes;
+  for (int i = 0; i < n; ++i) {
+    big tmp;
+    cin >> tmp;
+    cubes.push_back(tmp);
+  }
 
-	for (int i = 0; i < n / 2; ++i) {
-		if (i % 2 == 0) {
-			ll tmp = numbers[n - i - 1];
-			numbers[n - i - 1] = numbers[i];
-			numbers[i] = tmp;
-		}
-	}
+  for (int i = 0; i < n / 2; ++i) {
+    if (i % 2 == 0) {
+      big tmp = cubes[n - i - 1];
+      cubes[n - i - 1] = numbers[i];
+      cubes[i] = tmp;
+    }
+  }
 
-	for (int i = 0; i < n; ++i) {
-		cout << numbers[i];
-		if (i != n - 1) {
-			cout << " ";
-		}
-	}
-	
-	cout << endl;
+  for (int i = 0; i < n; ++i) {
+    cout << cubes[i];
+    if (i != n - 1) {
+      cout << " ";
+    }
+  }
+  
+  cout << endl;
 
-	return 0;
+  return 0;
 }
