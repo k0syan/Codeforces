@@ -2,7 +2,7 @@
 
 ### Codeforces Round #396 (Div. 2)
 - [766A]() - A. Mahmoud and Longest Uncommon Subsequence - **Pretests passed**
-- [755B]() - B. Mahmoud and a Triangle - **Pretests passed**
+- [766B](https://github.com/k0syan/Codeforces/tree/master/766B) - B. Mahmoud and a Triangle - **Pretests passed**
 
 ### Codeforces Round #395 (Div. 2)
 - [764B](http://codeforces.com/problemset/problem/764/B) - Timofey and cubes - **Accepted**
