@@ -1,8 +1,8 @@
 # [Codeforces](http://codeforces.com)
 
 ### Codeforces Round #396 (Div. 2)
-- [766A](https://github.com/k0syan/Codeforces/tree/master/766A) - A. Mahmoud and Longest Uncommon Subsequence - **Pretests passed**
-- [766B](https://github.com/k0syan/Codeforces/tree/master/766B) - B. Mahmoud and a Triangle - **Pretests passed**
+- [766A](https://github.com/k0syan/Codeforces/tree/master/766A) - A. Mahmoud and Longest Uncommon Subsequence - **Accepted**
+- [766B](https://github.com/k0syan/Codeforces/tree/master/766B) - B. Mahmoud and a Triangle - **Accepted**
 
 ### Codeforces Round #395 (Div. 2)
 - [764B](https://github.com/k0syan/Codeforces/tree/master/764B) - Timofey and cubes - **Accepted**
