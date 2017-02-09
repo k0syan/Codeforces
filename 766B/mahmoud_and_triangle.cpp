@@ -1,5 +1,7 @@
 #include <iostream>
+
 using namespace std;
+
 typedef unsigned long long huge;
 
 huge getMax(huge arr[], int n) {
