@@ -16,7 +16,7 @@ int main() {
   for (int i = 0; i < n / 2; ++i) {
     if (i % 2 == 0) {
       big tmp = cubes[n - i - 1];
-      cubes[n - i - 1] = numbers[i];
+      cubes[n - i - 1] = cubes[i];
       cubes[i] = tmp;
     }
   }
