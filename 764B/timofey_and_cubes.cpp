@@ -1,7 +1,9 @@
 #include <iostream>
 #include <vector>
-typedef long long big;
+
 using namespace std;
+
+typedef long long big;
 
 int main() {
   int n;
