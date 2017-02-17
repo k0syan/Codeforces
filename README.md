@@ -2,6 +2,7 @@
 
 ### Codeforces Round #397 (Div. 1, Div. 2)
 - [765A](https://github.com/k0syan/Codeforces/tree/master/765A) - A. Neverending competitions - **Accepted**
+- [765B](https://github.com/k0syan/Codeforces/tree/master/765B) - B. Code obfuscation - **Accepted**
 
 ### Codeforces Round #396 (Div. 2)
 - [766A](https://github.com/k0syan/Codeforces/tree/master/766A) - A. Mahmoud and Longest Uncommon Subsequence - **Accepted**
