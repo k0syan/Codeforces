@@ -1,6 +1,7 @@
 # [Codeforces](http://codeforces.com)
 
 ### Codeforces Round #397 (Div. 1, Div. 2)
+- [765A](https://github.com/k0syan/Codeforces/tree/master/765A) - A. Neverending competitions - **Accepted**
 
 ### Codeforces Round #396 (Div. 2)
 - [766A](https://github.com/k0syan/Codeforces/tree/master/766A) - A. Mahmoud and Longest Uncommon Subsequence - **Accepted**
