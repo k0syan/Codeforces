@@ -1,6 +1,9 @@
 # [Codeforces](http://codeforces.com)
 ![Codeforces](https://camo.githubusercontent.com/9aadb18f628a91a3beeec69062b7d7ad3aa6068e/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f3130313632333837362f636f6465666f726365732e737667)
 
+### Divide by Zero 2017 and Codeforces Round #399 (Div. 1 + Div. 2, combined)
+- [768A](https://github.com/k0syan/Codeforces/tree/master/768A) - A. Oath of the Night's Watch
+
 ### Codeforces Round #398 (Div. 2)
 
 ### Codeforces Round #397 (Div. 1 + Div. 2)
