@@ -1,3 +1,5 @@
+""" Created by Shahen Kosyan """
+
 if __name__ == '__main__':
     k, a, b = input().split()
     k, a, b, = int(k), int(a), int(b)
