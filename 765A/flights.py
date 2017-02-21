@@ -1,3 +1,5 @@
+""" Created by Shahen Kosyan """
+
 if __name__ == '__main__':
     n = int(input())
     home_airport = input()
