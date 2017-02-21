@@ -1,15 +1,14 @@
 """ Created by Shahen Kosyan """
 
 if __name__ == '__main__':
-    k, a, b = input().split()
-    k, a, b, = int(k), int(a), int(b)
+    k, a, b = [int(x) for x in input().split()]
 
     count = 0
 
     if a >= k:
-        count += int(a / k)
+        count += a // k
     if b >= k:
-        count += int(b / k)
+        count += b // k
 
     if count == 0:
         print(-1)
