@@ -1,10 +1,11 @@
+""" Created by Shahen Kosyan """
+
 if __name__ == '__main__':
     n = int(input())
-    strenghts = input().split()
-    strenghts = [int(s) for s in strenghts]
+    strenghts = [int(s) for s in input().split()]
 
-    maximum = max(strenghts)
     minimum = min(strenghts)
+    maximum = max(strenghts)
 
     count = 0
 
