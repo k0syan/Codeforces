@@ -1,4 +1,4 @@
-""" Created by Shahen Kosyan """
+""" Created by Shahen Kosyan 2/14/17"""
 
 if __name__ == '__main__':
     n = int(input())
