@@ -1,19 +1,29 @@
-# [Codeforces](http://codeforces.com)
-![Codeforces](https://camo.githubusercontent.com/9aadb18f628a91a3beeec69062b7d7ad3aa6068e/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f3130313632333837362f636f6465666f726365732e737667)
+# Solutions to [Codeforces](http://codeforces.com) Problems
+## Problems solved: `10`
+![Codeforces](https://dl.dropboxusercontent.com/u/101623876/codeforces.svg)
 
-### Divide by Zero 2017 and Codeforces Round #399 (Div. 1 + Div. 2, combined)
-- [768A](https://github.com/k0syan/Codeforces/tree/master/768A) - A. Oath of the Night's Watch
+### Codeforces Round #402 (Div. 2) - `1/5`
+- **[779A](https://github.com/kantuni/Codeforces/tree/master/779A)** - Pupils Redistribution - **Accepted**
+- [779B](https://github.com/kantuni/Codeforces/tree/master/779B) - Weird Rounding - **Accepted**
+- [779C](https://github.com/kantuni/Codeforces/tree/master/779C) - Dishonest Sellers - **Accepted** (C++), **Time limit exceeded** (Python)
 
-### Codeforces Round #398 (Div. 2)
+### Codeforces Round #401 (Div. 2) - `0/5`
 
-### Codeforces Round #397 (Div. 1 + Div. 2)
-- [765A](https://github.com/k0syan/Codeforces/tree/master/765A) - A. Neverending competitions - **Accepted**
-- [765B](https://github.com/k0syan/Codeforces/tree/master/765B) - B. Code obfuscation - **Accepted**
-- [765C](https://github.com/k0syan/Codeforces/tree/master/765C) - C. Table Tennis Game 2 - **Hacked**
+### Codeforces Round #400 (Div. 1 + Div. 2) - `1/7`
 
-### Codeforces Round #396 (Div. 2)
-- [766A](https://github.com/k0syan/Codeforces/tree/master/766A) - A. Mahmoud and Longest Uncommon Subsequence - **Accepted**
-- [766B](https://github.com/k0syan/Codeforces/tree/master/766B) - B. Mahmoud and a Triangle - **Accepted**
+### Codeforces Round #399 (Div. 1 + Div. 2) - `1/7`
+
+### Codeforces Round #398 (Div. 2) - `0/5`
+- [767A](https://github.com/kantuni/Codeforces/tree/master/767A) - Snacktower - **Time limit exceeded**
+
+### Codeforces Round #397 (Div. 1 + Div. 2) - `2/7`
+- **[765A](https://github.com/kantuni/Codeforces/tree/master/765A)** - Neverending competitions - **Accepted**
+- **[765B](https://github.com/kantuni/Codeforces/tree/master/765B)** - Code obfuscation - **Accepted**
+- [765C](https://github.com/kantuni/Codeforces/tree/master/765C) - Table Tennis Game 2 - **Accepted**
+
+### Codeforces Round #396 (Div. 2) - `2/5`
+- **[766A](https://github.com/kantuni/Codeforces/tree/master/766A)** - Mahmoud and Longest Uncommon Subsequence - **Accepted**
+- **[766B](https://github.com/kantuni/Codeforces/tree/master/766B)** - Mahmoud and a Triangle - **Accepted**
 
 ### Codeforces Round #395 (Div. 2)
-- [764B](https://github.com/k0syan/Codeforces/tree/master/764B) - Timofey and cubes - **Accepted**
+- [764B](https://github.com/kantuni/Codeforces/tree/master/764B) - Timofey and cubes - **Accepted**
