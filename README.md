@@ -3,6 +3,8 @@
 
 ![Codeforces](https://dl.dropboxusercontent.com/u/101623876/codeforces.svg)
 
+### VK Cup 2017
+
 ### Codeforces Round #402 (Div. 2) - `1/5`
 - **[779A](https://github.com/k0syan/Codeforces/tree/master/779A)** - Pupils Redistribution - **Accepted**
 - [779B](https://github.com/k0syan/Codeforces/tree/master/779B) - Weird Rounding - **Accepted**
