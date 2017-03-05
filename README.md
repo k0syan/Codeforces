@@ -5,6 +5,7 @@
 
 ### VK Cup 2017
 - [VK-A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Год поступления в университет - **Accepted**
+- [VK-B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Новость о зачёте - **Accepted**
 
 ### VK Cup 2015
 
