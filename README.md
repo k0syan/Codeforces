@@ -4,6 +4,7 @@
 ![Codeforces](https://dl.dropboxusercontent.com/u/101623876/codeforces.svg)
 
 ### VK Cup 2017
+- [VK-A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Год поступления в университет - **Accepted**
 
 ### VK Cup 2015
 
