@@ -8,7 +8,7 @@
 - [VK-B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Новость о зачёте - **Accepted**
 
 ### VK Cup 2017 Practice Problems
-- [541A](https://github.com/kantuni/Codeforces/tree/master/779A) - Place Your Ad Here
+- [541A](https://github.com/k0syan/Codeforces/tree/master/779A) - Place Your Ad Here
 
 ### Codeforces Round #402 (Div. 2) - `1/5`
 - **[779A](https://github.com/k0syan/Codeforces/tree/master/779A)** - Pupils Redistribution - **Accepted**
