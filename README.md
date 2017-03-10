@@ -5,7 +5,7 @@
 
 ### VK Cup 2017 `2/4`
 - [769A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Год поступления в университет - **Accepted**
-- [VK-B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Новость о зачёте - **Accepted**
+- [769B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Новость о зачёте - **Accepted**
 - [769C](https://github.com/k0syan/Codeforces/tree/master/769C) - Цикл в лабиринте - **Wrong answer**
 
 ### VK Cup 2017 Practice Problems
