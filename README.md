@@ -20,6 +20,7 @@
 
 ### Codeforces Round #400 (Div. 1 + Div. 2) - `1/7`
 - 776A - A Serial Killer
+- 776B - Sherlock and his girlfriend
 
 ### Codeforces Round #399 (Div. 1 + Div. 2) - `1/7`
 - **[768A](https://github.com/k0syan/Codeforces/tree/master/768A)** - Oath of the Night's Watch - **Accepted**
