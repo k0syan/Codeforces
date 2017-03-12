@@ -4,6 +4,7 @@
 ![Codeforces](https://dl.dropboxusercontent.com/u/101623876/codeforces.svg)
 
 ### VK Cup 2017 Qualification Round 2 - `4/4`
+- [770A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Новый пароль - **Accepted**
 
 ### VK Cup 2017 Qualification Round 1 - `2/4`
 - [769A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Год поступления в университет - **Accepted**
