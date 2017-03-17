@@ -1,7 +1,7 @@
 # Solutions to [Codeforces](http://codeforces.com) Problems
 ## Problems solved: `11`
 
-![Codeforces](https://dl.dropboxusercontent.com/u/101623876/codeforces.svg)
+<br>
 
 ### Codeforces Round #404 (Div. 2) - `2/5`
 
