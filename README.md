@@ -15,9 +15,9 @@
 - [770D](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Draw Brackets! - **Accepted**
 
 ### VK Cup 2017 Qualification Round 1 - `2/4`
-- [769A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Год поступления в университет - **Accepted**
-- [769B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Новость о зачёте - **Accepted**
-- [769C](https://github.com/k0syan/Codeforces/tree/master/769C) - Цикл в лабиринте - **Wrong answer**
+- [769A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Year of University Entrance - **Accepted**
+- [769B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - News About Credit - **Accepted**
+- [769C](https://github.com/k0syan/Codeforces/tree/master/769C) - Cycle In Maze - **Wrong answer**
 
 ### VK Cup 2017 Practice Problems
 - [541A](https://github.com/k0syan/Codeforces/tree/master/779A) - Place Your Ad Here
