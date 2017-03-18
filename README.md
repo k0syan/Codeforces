@@ -9,10 +9,10 @@
 - 785C - Anton and Fairy Tale - **Wrong answer**
 
 ### VK Cup 2017 Qualification Round 2 - `4/4`
-- [770A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Новый пароль - **Accepted**
-- [770B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Максимизируй сумму цифр - **Accepted**
-- [770C](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Онлайн-курсы в БГУ - **Accepted**
-- [770D](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Нарисуй скобки - **Accepted**
+- [770A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - New Password - **Accepted**
+- [770B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Maximize Sum of Digits - **Accepted**
+- [770C](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Online Courses in BSU - **Accepted**
+- [770D](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Draw Brackets! - **Accepted**
 
 ### VK Cup 2017 Qualification Round 1 - `2/4`
 - [769A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Год поступления в университет - **Accepted**
