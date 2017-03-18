@@ -18,7 +18,7 @@
 - [769A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - Year of University Entrance - **Accepted**
 - [769B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%201) - News About Credit - **Accepted**
 - [769C](https://github.com/k0syan/Codeforces/tree/master/769C) - Cycle In Maze - **Wrong answer**
-- 769D - k-Interesting Pairs Of Integers - **Time limit exceeded**
+- 769D - k-Interesting Pairs of Integers - **Time limit exceeded**
 
 ### VK Cup 2017 Practice Problems
 - [541A](https://github.com/k0syan/Codeforces/tree/master/779A) - Place Your Ad Here
