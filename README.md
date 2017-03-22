@@ -5,7 +5,7 @@
 
 ### Codeforces Round #404 (Div. 2) - `2/5`
 - **[785A](https://github.com/k0syan/Codeforces/tree/master/785A)** - Anton and Polyhedrons - **Accepted**
-- 785B - Anton and Classes - **Accepted**
+- **[785B](https://github.com/k0syan/Codeforces/tree/master/785B)** - Anton and Classes - **Accepted**
 - 785C - Anton and Fairy Tale - **Wrong answer**
 
 ### VK Cup 2017 Qualification Round 2 - `4/4`
