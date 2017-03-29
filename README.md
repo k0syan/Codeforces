@@ -4,6 +4,7 @@
 <br>
 
 ### Codeforces Round #407 (Div. 2) - `0/5`
+
 ### Codeforces Round #406 (Div. 2) - `0/5`
 
 ### Codeforces Round #404 (Div. 2) - `2/5`
