@@ -13,7 +13,7 @@
 - [785C](https://github.com/k0syan/Codeforces/tree/master/785C) - Anton and Fairy Tale - **Accepted**(Python)
 
 ### VK Cup 2017 Qualification Round 2 - `4/4`
-- [770A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - New Password - **Accepted**
+- **[770A](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202)** - New Password - **Accepted**
 - [770B](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Maximize Sum of Digits - **Accepted**
 - [770C](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Online Courses in BSU - **Accepted**
 - [770D](https://github.com/k0syan/Codeforces/tree/master/VK-Cup%20Qualification%202) - Draw Brackets! - **Accepted**
