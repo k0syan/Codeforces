@@ -4,12 +4,12 @@
 <br>
 
 ### Codeforces Round #407 (Div. 2) - `0/5`
-- 789A - Anastasia and pebbles
+- 789A - Anastasia and pebbles - **Wrong Answer**
 - 789B - Masha and geometric depression
 
 ### Codeforces Round #406 (Div. 2) - `0/5`
-- 787A - The Monster - Wrong Answer
-- 787B - Not Afraid - Wrong Answer
+- 787A - The Monster - **Wrong Answer**
+- 787B - Not Afraid - **Wrong Answer**
 - 786A - Berzerk
 
 ### Codeforces Round #404 (Div. 2) - `2/5`
