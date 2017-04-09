@@ -4,7 +4,7 @@
 <br>
 
 ### VK Cup 2017 - Wild Card Round 1 - `3/12`
-- [Lie or Truth](https://github.com/k0syan/Codeforces/tree/master/VK%20Cup%202017%20-%20Wild%20Card%20Round%201) - **Accepted**
+- **[D](https://github.com/k0syan/Codeforces/tree/master/VK%20Cup%202017%20-%20Wild%20Card%20Round%201)** - Lie or Truth - **Accepted**
 
 ### Codeforces Round #407 (Div. 2) - `0/5`
 - 789A - Anastasia and pebbles - **Wrong Answer**
