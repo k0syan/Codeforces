@@ -3,6 +3,8 @@
 
 <br>
 
+### Codeforces Round #410 (Div. 2) - `2/5`
+
 ### VK Cup 2017 - Wild Card Round 1 - `3/12`
 - **[D](https://github.com/k0syan/Codeforces/tree/master/VK%20Cup%202017%20-%20Wild%20Card%20Round%201)** - Lie or Truth - **Accepted**(C++)
 - **[K](https://github.com/k0syan/Codeforces/tree/master/VK%20Cup%202017%20-%20Wild%20Card%20Round%201)** - Stepan And Vowels **Accepted**(Python)
