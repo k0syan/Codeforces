@@ -5,7 +5,7 @@
 
 ### Codeforces Round #410 (Div. 2) - `2/5`
 - **[798A](https://github.com/k0syan/Codeforces/tree/master/798A)** - Mike and palindrome - **Accepted**
-- **[798B]()** - Mike and strings - **Accepted**
+- **[798B](https://github.com/k0syan/Codeforces/tree/master/798B)** - Mike and strings - **Accepted**
 - 798C - Mike and gcd problem
 
 ### VK Cup 2017 - Wild Card Round 1 - `3/12`
