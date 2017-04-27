@@ -4,7 +4,7 @@
 <br>
 
 ### Codeforces Round #410 (Div. 2) - `2/5`
-- **[798A]()** - Mike and palindrome - **Accepted**
+- **[798A](https://github.com/k0syan/Codeforces/tree/master/798A)** - Mike and palindrome - **Accepted**
 - **[798B]()** - Mike and strings - **Accepted**
 - 798C - Mike and gcd problem
 
