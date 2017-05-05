@@ -1,9 +1,9 @@
 /**
- * Created by Shahen Kosyan on.
+ * Created by Shahen Kosyan
  */
+
 #include <iostream>
 #include <vector>
-
 using namespace std;
 
 typedef long long big;
@@ -32,8 +32,7 @@ int main() {
       cout << " ";
     }
   }
+  cout << "\n";
   
-  cout << endl;
-
   return 0;
 }
