@@ -1,7 +1,3 @@
-/**
- * Created by Shahen Kosyan
- */
-
 #include <iostream>
 #include <vector>
 using namespace std;
