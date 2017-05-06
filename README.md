@@ -7,6 +7,7 @@
 - 805A - Fake NP - **Accepted**
 - 805B - 3-palindrome - **Accepted**
 - 804A - Find Amir - **Accepted**
+- 804B - Minimum Number of Steps - **Wrong Answer**
 
 ### Codeforces Round #410 (Div. 2) - `2/5`
 - **[798A](https://github.com/k0syan/Codeforces/tree/master/798A)** - Mike and palindrome - **Accepted**
