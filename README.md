@@ -5,7 +5,7 @@
 
 ### Codeforces Round #411 (Div. 2) - `3/6`
 - **[805A](https://github.com/k0syan/Codeforces/tree/master/805A)** - Fake NP - **Accepted**
-- [805B](https://github.com/k0syan/Codeforces/tree/master/805B) - 3-palindrome - **Accepted**
+- **[805B](https://github.com/k0syan/Codeforces/tree/master/805B)** - 3-palindrome - **Accepted**
 - 804A - Find Amir - **Accepted**
 - 804B - Minimum Number of Steps - **Wrong Answer**
 
