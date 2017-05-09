@@ -22,7 +22,6 @@ if __name__ == "__main__":
     }
 
     possible = True
-
     for key in a.keys():
         if (a[key] + b[key]) % 2 != 0:
             possible = False
@@ -33,7 +32,6 @@ if __name__ == "__main__":
         for key in a.keys():
             if a[key] > b[key]:
                 swaps += (a[key] - b[key]) // 2
-
         print(swaps)
     else:
         print(-1)
