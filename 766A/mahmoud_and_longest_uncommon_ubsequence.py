@@ -10,6 +10,6 @@ if __name__ == '__main__':
         print(len(b))
     else:
         if a == b:
-            print('-1')
+            print(-1)
         else:
             print(len(a))
