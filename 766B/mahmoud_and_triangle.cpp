@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 typedef unsigned long long huge;
@@ -39,9 +38,7 @@ void radixsort(huge arr[], int n) {
     countSort(arr, n, exp);
 }
 
-
 int main() {
-
   int count;
   bool possibility = false;
 
@@ -61,9 +58,9 @@ int main() {
   }
 
   if (possibility) {
-    cout << "YES" << endl;
+    cout << "YES" << "\n";
   } else {
-    cout << "NO" << endl;
+    cout << "NO" << "\n";
   }
 
   return 0;
