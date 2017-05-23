@@ -65,6 +65,5 @@ int main() {
   }
 
   cout << total << endl;
-
   return 0;
 }
