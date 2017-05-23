@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-typedef unsigned long long huge;
+typedef unsigned long long ull;
 
-huge getMax(huge arr[], int n) {
-  huge max = arr[0];
+ull getMax(ull arr[], int n) {
+  ull max = arr[0];
 
   for (int i = 1; i < n; i++)
     if (arr[i] > max)
@@ -13,8 +13,8 @@ huge getMax(huge arr[], int n) {
   return max;
 }
 
-void countSort(huge arr[], int n, int exp) {
-  huge output[n];
+void countSort(ull arr[], int n, int exp) {
+  ull output[n];
   int i, count[10] = {0};
 
   for (i = 0; i < n; i++)
@@ -32,8 +32,8 @@ void countSort(huge arr[], int n, int exp) {
     arr[i] = output[i];
 }
 
-void radixsort(huge arr[], int n) {
-  huge m = getMax(arr, n);
+void radixsort(ull arr[], int n) {
+  ull m = getMax(arr, n);
   for (int exp = 1; m / exp > 0; exp *= 10)
     countSort(arr, n, exp);
 }
@@ -43,7 +43,7 @@ int main() {
   bool possibility = false;
 
   cin >> count;
-  huge lengths[count];
+  ull lengths[count];
   for (int i = 0; i < count; ++i) {
     cin >> lengths[i];
   }
