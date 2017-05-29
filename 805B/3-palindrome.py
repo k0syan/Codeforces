@@ -5,6 +5,7 @@ if __name__ == "__main__":
     answer = 'b'
 
     for i in range(n - 1):
+        
         if answer[i] == 'b' and (i + 1) % 2 == 1:
             answer += 'b'
 
