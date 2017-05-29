@@ -2,8 +2,8 @@
 #include <vector>
 #include <unordered_map>
 #include <iterator>
-using namespace std;
 
+using namespace std;
 vector<vector<int>> courses;
 unordered_map<int, int> memo;
 vector<int> order;
@@ -55,7 +55,6 @@ int main() {
     for (int j = 0; j < length; ++j) {
       cin >> course[j];
     }
-    
     courses.push_back(course);
   }
   
