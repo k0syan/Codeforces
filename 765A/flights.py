@@ -11,7 +11,6 @@ if __name__ == '__main__':
         flights.append(_to)
 
     count = 0
-
     for i in range(len(flights)):
         if flights[i] == home_airport:
             count += 1
