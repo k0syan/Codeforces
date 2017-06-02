@@ -7,7 +7,9 @@ if __name__ == "__main__":
     latest_start_chess = 0
     earliest_finish_prog = 2000000000
     latest_start_prog = 0
+    
     i = 0
+    
     while i < n:
         time = [int(x) for x in input().split()]
         if earliest_finish_chess > time[1]:
@@ -19,6 +21,7 @@ if __name__ == "__main__":
 
     m = int(input())
     i = 0
+    
     while i < m:
         time = [int(x) for x in input().split()]
         if latest_start_prog < time[0]:
