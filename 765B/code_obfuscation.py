@@ -1,14 +1,16 @@
 """ Created by Shahen Kosyan 2/14/17"""
 
 if __name__ == '__main__':
+    
     obfuscation = input()
     letters = 'abcdefghijklmnopqrstuvwxyz'
-
+    
     obfuscation = list(obfuscation)
     letters = list(letters)
-
+    
     i = len(obfuscation)
     posibility = 'NO'
+    
     while i:
         if obfuscation[0] != letters[0]:
             posibility = 'NO'
