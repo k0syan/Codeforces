@@ -14,6 +14,7 @@ if __name__ == "__main__":
 
     total = 0
     i = 0
+    
     while i < n:
         figures.append(input())
         total += values[figures[i]]
