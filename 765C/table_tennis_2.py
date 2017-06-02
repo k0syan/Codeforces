@@ -2,7 +2,6 @@
 
 if __name__ == '__main__':
     k, a, b = [int(x) for x in input().split()]
-
     count = 0
 
     if a >= k:
