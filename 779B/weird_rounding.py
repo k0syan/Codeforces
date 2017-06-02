@@ -6,10 +6,12 @@ if __name__ == "__main__":
 
     zero_count = digits.count('0')
     count = 0
+    
     if zero_count < k:
         count = len(str(n)) - 1
 
     x = n
+    
     for i in range(len(str(x))):
         if x % 10 != 0:
             count += 1
